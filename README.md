@@ -1,4 +1,4 @@
-# Learning to Optimize Permutation Flow Shop Scheduling via Graph-based Imitation Learning
+# [AAAI 2024] Learning to Optimize Permutation Flow Shop Scheduling via Graph-based Imitation Learning
 
 This is the official implementation for the paper **"Learning to Optimize Permutation Flow Shop Scheduling via Graph-based Imitation Learning"**, AAAI 2024.
 
